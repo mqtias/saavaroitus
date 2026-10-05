@@ -14,3 +14,4 @@ Säähälytysjärjestelmä on Python-kielinen työkalu, joka tarkistaa reaaliaik
 
 ## 3. Kehitysajatukset
 Parempi avoin sääohjelma tai rajapinta: Jatkossa ohjelmassa voisi hyödyntää kehittyneempää avoimen lähdekoodin sääohjelmaa tai virallista rajapintaa (kuten Met.no tai OpenWeatherMap), jotta säätiedot ja sademäärät saadaan tarkempina ilman tekstin arvailua.
+++ jatkoa ajatellen tekisi lokitiedostoa menneistä säistä jotta pystyy tarkastella, minkälaista säätä ollut
